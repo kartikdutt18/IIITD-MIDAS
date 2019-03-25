@@ -53,6 +53,9 @@ Reason: Outperforms general CNN architectures such as DenseNet,VGG,Resnet etc.
 
 Hinton: “The pooling operation used in convolutional neural networks is a big mistake and the fact that it works so well is a disaster.”
 
+**Augmentation Used:**
+Random Rotation,Random Vertical Flip,Random Vertical Flip,Color Jitter(adjust brightness,hue and contrast).
+
 Internal data representation of a convolutional neural network does not take into account important spatial hierarchies between simple and complex objects.
 
 The key to this richer feature representation is the use of vectors rather than scalers.
