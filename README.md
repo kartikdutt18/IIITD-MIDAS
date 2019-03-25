@@ -1,14 +1,19 @@
 # IIITD-MIDAS
 ## Python Problem
 **Requirements:**
+
 tweepy==3.3.0
+
 pandas
 
 **Installation:**
+
 pip install tweepy==3.3.0
+
 pip install pandas
 
 **Functionalities:**
+
 (1) Fetch all the tweets(as many as allowed by Twitter API) done by a user twitter handle and dump the responses into        
 JSONlines file.
 
