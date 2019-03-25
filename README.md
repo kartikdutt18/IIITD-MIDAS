@@ -43,6 +43,10 @@ tabular format.
 
 Reason: Outperforms general CNN architectures such as DenseNet,VGG,Resnet etc.
 
+https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
+
+https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
+
 ### Capsule Network:
 
 Hinton: “The pooling operation used in convolutional neural networks is a big mistake and the fact that it works so well is a disaster.”
