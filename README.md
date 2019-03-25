@@ -37,10 +37,10 @@ tabular format.
   
   ● Replace @username with username
   
-![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
+![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.44.21%20PM.png)
 
  Without Hashtags:
-![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
+![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.44.37%20PM.png)
   
   
 ## Computer Vision Problem
