@@ -54,13 +54,13 @@ The key to this richer feature representation is the use of vectors rather than 
  
  **Installations:**
  
-!pip install torch
+pip install torch
 
-!pip install torchvision
+pip install torchvision
 
-!pip install numpy
+pip install numpy
 
-!pip install pandas
+pip install pandas
 
-!pip install matplotlib
+pip install matplotlib
 
