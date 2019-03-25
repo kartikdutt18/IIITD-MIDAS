@@ -37,15 +37,17 @@ tabular format.
   
   ● Replace @username with username
   
+![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
+
+ Without Hashtags:
+![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
+  
+  
 ## Computer Vision Problem
 
 **Model Used: Capsule Network**
 
 Reason: Outperforms general CNN architectures such as DenseNet,VGG,Resnet etc.
-
-![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
-
-![alt text](https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png)
 
 ### Capsule Network:
 
