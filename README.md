@@ -43,9 +43,9 @@ tabular format.
 
 Reason: Outperforms general CNN architectures such as DenseNet,VGG,Resnet etc.
 
-https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
+![alt text]https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
 
-https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
+![alt text]https://github.com/kartikdutt18/IIITD-MIDAS/blob/master/imgs/Screen%20Shot%202019-03-25%20at%2010.36.38%20PM.png
 
 ### Capsule Network:
 
